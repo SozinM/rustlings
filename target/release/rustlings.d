@@ -1,0 +1,1 @@
+/home/msozin/study/rust/rustlings/target/release/rustlings: /home/msozin/study/rust/rustlings/src/exercise.rs /home/msozin/study/rust/rustlings/src/main.rs /home/msozin/study/rust/rustlings/src/project.rs /home/msozin/study/rust/rustlings/src/run.rs /home/msozin/study/rust/rustlings/src/ui.rs /home/msozin/study/rust/rustlings/src/verify.rs

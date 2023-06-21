@@ -1,0 +1,12 @@
+/home/msozin/study/rust/rustlings/target/release/deps/notify-1cdf48fa1c93cdcc.rmeta: /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/lib.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/inotify.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/null.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/poll.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/mod.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/timer.rs
+
+/home/msozin/study/rust/rustlings/target/release/deps/libnotify-1cdf48fa1c93cdcc.rlib: /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/lib.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/inotify.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/null.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/poll.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/mod.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/timer.rs
+
+/home/msozin/study/rust/rustlings/target/release/deps/notify-1cdf48fa1c93cdcc.d: /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/lib.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/inotify.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/null.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/poll.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/mod.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/timer.rs
+
+/home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/lib.rs:
+/home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/inotify.rs:
+/home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/null.rs:
+/home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/poll.rs:
+/home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/mod.rs:
+/home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/timer.rs:

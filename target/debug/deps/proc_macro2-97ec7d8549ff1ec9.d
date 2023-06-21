@@ -1,0 +1,12 @@
+/home/msozin/study/rust/rustlings/target/debug/deps/proc_macro2-97ec7d8549ff1ec9.rmeta: /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.28/src/lib.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.28/src/marker.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.28/src/parse.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.28/src/detection.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.28/src/fallback.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.28/src/wrapper.rs
+
+/home/msozin/study/rust/rustlings/target/debug/deps/libproc_macro2-97ec7d8549ff1ec9.rlib: /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.28/src/lib.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.28/src/marker.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.28/src/parse.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.28/src/detection.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.28/src/fallback.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.28/src/wrapper.rs
+
+/home/msozin/study/rust/rustlings/target/debug/deps/proc_macro2-97ec7d8549ff1ec9.d: /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.28/src/lib.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.28/src/marker.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.28/src/parse.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.28/src/detection.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.28/src/fallback.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.28/src/wrapper.rs
+
+/home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.28/src/lib.rs:
+/home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.28/src/marker.rs:
+/home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.28/src/parse.rs:
+/home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.28/src/detection.rs:
+/home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.28/src/fallback.rs:
+/home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.28/src/wrapper.rs:

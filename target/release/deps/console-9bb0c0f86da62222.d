@@ -1,0 +1,13 @@
+/home/msozin/study/rust/rustlings/target/release/deps/console-9bb0c0f86da62222.rmeta: /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/lib.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/common_term.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/kb.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/term.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/unix_term.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/utils.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/ansi.rs
+
+/home/msozin/study/rust/rustlings/target/release/deps/libconsole-9bb0c0f86da62222.rlib: /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/lib.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/common_term.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/kb.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/term.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/unix_term.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/utils.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/ansi.rs
+
+/home/msozin/study/rust/rustlings/target/release/deps/console-9bb0c0f86da62222.d: /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/lib.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/common_term.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/kb.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/term.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/unix_term.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/utils.rs /home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/ansi.rs
+
+/home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/lib.rs:
+/home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/common_term.rs:
+/home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/kb.rs:
+/home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/term.rs:
+/home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/unix_term.rs:
+/home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/utils.rs:
+/home/msozin/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/ansi.rs:
